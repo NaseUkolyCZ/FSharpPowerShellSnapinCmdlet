@@ -1,3 +1,4 @@
 language: csharp
 solution: FSharpPowerShellSnapinCmdlet.sln
 sudo: false  # use the new container-based Travis infrastructure 
+
