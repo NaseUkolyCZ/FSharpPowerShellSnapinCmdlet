@@ -1,0 +1,2 @@
+cd FSharpPowerShellSnapinCmdlet\bin\Debug\
+installutil FSharpPowerShellSnapinCmdlet.dll
